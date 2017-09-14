@@ -1,4 +1,4 @@
-import {ICellEditorComp} from 'ag-grid';
+import {ICellEditorComp} from 'tf-ag-grid';
 import {AgReactComponent} from "./agReactComponent";
 
 export function reactCellEditorFactory(reactComponent:any, parentComponent?:any):{new(): ICellEditorComp} {
