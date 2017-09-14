@@ -4,8 +4,8 @@ import {ReactFrameworkComponentWrapper} from "./reactFrameworkComponentWrapper";
 import * as DOM from 'react-dom-factories';
 import {Component} from "react";
 import * as PropTypes from "prop-types";
-import * as AgGrid from "ag-grid";
-import {GridOptions} from "ag-grid";
+import * as AgGrid from "tf-ag-grid";
+import {GridOptions} from "tf-ag-grid";
 
 export interface AgGridReactProps extends GridOptions {
     gridOptions?: GridOptions

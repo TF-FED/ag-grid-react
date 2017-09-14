@@ -1,4 +1,4 @@
-import {Autowired, BaseComponentWrapper, Bean, FrameworkComponentWrapper, IComponent, WrapableInterface, IAfterGuiAttachedParams} from "ag-grid";
+import {Autowired, BaseComponentWrapper, Bean, FrameworkComponentWrapper, IComponent, WrapableInterface, IAfterGuiAttachedParams} from "tf-ag-grid";
 import {AgReactComponent} from "./agReactComponent";
 import {AgGridReact} from "./agGridReact";
 
