@@ -9,7 +9,7 @@
   "typeAcquisition": {
     "enable": true,
     "include": [
-      "ag-grid",
+      "tf-ag-grid",
       "react",
       "react-dom"
     ]
