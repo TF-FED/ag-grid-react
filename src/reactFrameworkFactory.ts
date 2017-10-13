@@ -9,7 +9,7 @@ import {
     IFilterComp,
     GridOptions,
     ICellEditorComp
-} from 'ag-grid';
+} from 'tf-ag-grid';
 
 import {reactCellRendererFactory} from '../lib/reactCellRendererFactory';
 import {reactCellEditorFactory} from './reactCellEditorFactory';

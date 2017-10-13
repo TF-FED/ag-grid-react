@@ -12,7 +12,7 @@ import {
     ICellEditorParams,
     IFilter,
     IAfterGuiAttachedParams
-} from 'ag-grid';
+} from 'tf-ag-grid';
 
 export interface AgReactFrameworkComponent<T> {
 

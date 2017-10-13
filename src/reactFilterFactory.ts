@@ -1,5 +1,5 @@
 import {AgReactComponent} from "./agReactComponent";
-import {IFilterComp, IFilter, IFilterParams} from "ag-grid";
+import {IFilterComp, IFilter, IFilterParams} from "tf-ag-grid";
 
 // wraps the provided React filter component
 export function reactFilterFactory(reactComponent: any, parentComponent?: any): {new(): IFilterComp} {

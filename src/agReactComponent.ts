@@ -1,7 +1,7 @@
 import {AgReactFrameworkComponent} from "./interfaces";
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import * as AgGrid from 'ag-grid/main';
+import * as AgGrid from 'tf-ag-grid/main';
 
 export class AgReactComponent implements AgReactFrameworkComponent<any> {
 

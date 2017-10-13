@@ -1,4 +1,4 @@
-import {ICellRendererComp} from 'ag-grid/main';
+import {ICellRendererComp} from 'tf-ag-grid/main';
 import {AgReactComponent} from "./agReactComponent";
 
 export function reactCellRendererFactory(reactComponent: any, parentComponent?: any): {new(): ICellRendererComp} {
