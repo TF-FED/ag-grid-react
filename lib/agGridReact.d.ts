@@ -1,8 +1,8 @@
-// ag-grid-react v13.1.0
+// ag-grid-react v13.3.0
 /// <reference types="react" />
 import { Component } from "react";
-import * as AgGrid from "tf-ag-grid";
-import { GridOptions } from "tf-ag-grid";
+import * as AgGrid from "ag-grid";
+import { GridOptions } from "ag-grid";
 export interface AgGridReactProps extends GridOptions {
     gridOptions?: GridOptions;
 }

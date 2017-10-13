@@ -1,5 +1,5 @@
-// ag-grid-react v13.1.0
-import { IFrameworkFactory, ColDef, ICellRendererComp, ICellRendererFunc, IFilterComp, GridOptions, ICellEditorComp } from 'tf-ag-grid';
+// ag-grid-react v13.3.0
+import { IFrameworkFactory, ColDef, ICellRendererComp, ICellRendererFunc, IFilterComp, GridOptions, ICellEditorComp } from 'ag-grid';
 export declare class ReactFrameworkFactory implements IFrameworkFactory {
     private agGridReact;
     private baseFrameworkFactory;
